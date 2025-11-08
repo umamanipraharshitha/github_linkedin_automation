@@ -139,9 +139,5 @@ Authorize your app — the access token will be saved automatically in `linkedin
 ## 🧑‍💻 Author
 
 **Praharshitha**
-[LinkedIn](https://www.linkedin.com/in/umamanipraharshitha) | [GitHub](https://github.com/<your-github-username>)
+[LinkedIn](https://www.linkedin.com/in/umamanipraharshitha) | [GitHub](https://github.com/umamanipraharshitha)
 
----
-
-
-Would you like me to make it more **GitHub-styled (with emojis, code highlighting, badges, etc.)** for better presentation on your profile?
